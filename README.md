@@ -1,7 +1,1 @@
-# E-Commerce SQL Project
-
-This project analyzes e-commerce sales data using MySQL and SQL queries.
-It includes SQL scripts for creating and querying an e-commerce sales database.
-
-## Tools Used
-- MySQL
+ # Hospital Management SQL Project This project manages hospital data using SQL. It includes scripts for creating and querying tables such as patients, doctors, appointments, and departments. ## Tools Used - MySQL
